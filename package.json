@@ -1,0 +1,26 @@
+{
+  "name": "isingjs",
+  "version": "1.0.0",
+  "description": "2D Ising Simulation package.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0h-n0/Isingjs.git"
+  },
+  "keywords": [
+    "Simulation"
+  ],
+  "author": "0h-n0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0h-n0/Isingjs/issues"
+  },
+  "homepage": "https://github.com/0h-n0/Isingjs#readme",
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "express": "^4.16.2"
+  }
+}
